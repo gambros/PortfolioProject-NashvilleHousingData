@@ -1,6 +1,6 @@
 /*----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-										NASHVILLE HOUSING PROJECT - DATA CLEANING Cleaning Data in SQL Queries
+						NASHVILLE HOUSING PROJECT - DATA CLEANING 
 
 Skills used: Joins, CTE, Temporary Tables, Subqueries, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types, Stored Procedures.
 
